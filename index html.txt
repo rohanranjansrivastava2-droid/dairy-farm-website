@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Green Valley Dairy Farm | Bihar</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f5f7fa; color: #333; }
+    header { background: #2e7d32; color: #fff; padding: 20px; text-align: center; }
+    nav { background: #1b5e20; padding: 10px; text-align: center; }
+    nav a { color: #fff; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 40px; }
+    .card { background: #fff; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    h2 { color: #2e7d32; }
+    footer { background: #1b5e20; color: #fff; text-align: center; padding: 15px; }
+    .blog { border-left: 5px solid #2e7d32; padding-left: 15px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Green Valley Dairy Farm</h1>
+  <p>Pure • Fresh • Organic Milk</p>
+</header>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#about">About Us</a>
+  <a href="#services">Our Dairy</a>
+  <a href="#blogs">Daily Blogs</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+  <div class="card">
+    <h2>Welcome to Green Valley Dairy Farm</h2>
+    <p>Green Valley Dairy Farm is a small-scale dairy farm based in <b>East Champaran, Bihar</b>. We focus on providing fresh, hygienic, and organic milk directly from farm to home.</p>
+  </div>
+</section>
+
+<section id="about">
+  <div class="card">
+    <h2>About Us</h2>
+    <p>This dairy farm is managed by <b>Rohan Ranjan</b>. Our mission is to support local farmers and deliver high-quality dairy products while maintaining animal welfare and sustainability.</p>
+  </div>
+</section>
+
+<section id="services">
+  <div class="card">
+    <h2>Our Dairy Products & Services</h2>
+    <ul>
+      <li>Fresh Cow Milk</li>
+      <li>Organic Dairy Practices</li>
+      <li>Daily Milk Supply</li>
+      <li>Local Employment Support</li>
+    </ul>
+  </div>
+</section>
+
+<section id="blogs">
+  <div class="card blog">
+    <h2>Daily Blog – Farm Updates</h2>
+    <h4>Day 1: Healthy Cattle Care</h4>
+    <p>We ensure proper nutrition, clean water, and regular health checkups for our cows to maintain milk quality.</p>
+
+    <h4>Day 2: Morning Milking Routine</h4>
+    <p>Milking is done early morning under hygienic conditions to ensure freshness.</p>
+
+    <h4>Day 3: Importance of Organic Feed</h4>
+    <p>Organic feed improves milk quality and keeps cattle healthy.</p>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="card">
+    <h2>Contact Us</h2>
+    <p><b>Owner:</b> Rohan Ranjan</p>
+    <p><b>Location:</b> East Champaran, Bihar</p>
+    <p><b>Phone:</b> 9875073241</p>
+    <p><b>Email:</b> rohanmom28@gmail.com</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Green Valley Dairy Farm | College Project Presentation</p>
+</footer>
+
+</body>
+</html>
